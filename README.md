@@ -1,13 +1,13 @@
-## hey there <img src="" width="25px">
+## hey there <img src="https://github.com/garywongkai/garywongkai/blob/main/assets/anime-wave.gif?raw=true" width="25px">
 <br />
 <a href="https://discordapp.com/users/273044903569784832">
-  <img align="left" alt="Kai's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Kai's Discord" width="22px" src="https://raw.githubusercontent.com/garywongkai/garywongkai/main/assets/Discord.svg" />
 </a>
 <a href="https://twitter.com/nil_kai">
-  <img align="left" alt="Kai Li | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kai Li | Twitter" width="22px" src="https://raw.githubusercontent.com/garywongkai/garywongkai/main/assets/twitter.svg" />
 </a>
 <a href="https://open.spotify.com/user/garywongkai?si=74551a4d123f4311">
-  <img align="left" alt="My Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="My Spotify" width="22px" src="https://raw.githubusercontent.com/garywongkai/garywongkai/main/assets/spotify.svg" />
 </a>
 
 <br />
