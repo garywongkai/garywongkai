@@ -1,7 +1,4 @@
 ## Hey there 
-<br />
-<img src="https://github.com/garywongkai/garywongkai/blob/main/assets/anime-wave.gif?raw=true" height="335px" width="219px">
-<br />
 <a href="https://discordapp.com/users/273044903569784832">
   <img align="left" alt="Kai's Discord" width="22px" src="https://raw.githubusercontent.com/garywongkai/garywongkai/main/assets/Discord.svg" />
 </a>
