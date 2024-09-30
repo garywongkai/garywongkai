@@ -1,13 +1,4 @@
 ## Hey there 
-<a href="https://discordapp.com/users/273044903569784832">
-  <img align="left" alt="Kai's Discord" width="22px" src="https://raw.githubusercontent.com/garywongkai/garywongkai/main/assets/Discord.svg" />
-</a>
-<a href="https://twitter.com/nil_kai">
-  <img align="left" alt="Kai Li | Twitter" width="22px" src="https://raw.githubusercontent.com/garywongkai/garywongkai/main/assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/garywongkai?si=74551a4d123f4311">
-  <img align="left" alt="My Spotify" width="22px" src="https://raw.githubusercontent.com/garywongkai/garywongkai/main/assets/spotify.svg" />
-</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garywongkai&label=Profile%20views&color=0e75b6&style=flat" alt="garywongkai" /> </p>
 <br />
 <h1 align="center">Hi 👋, I'm Kai Li</h1>
